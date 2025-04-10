@@ -26,7 +26,8 @@ This is a comprehensive student and school management application built using th
 - Web UI customization with HTML/CSS (Service Portal)
 
 ## 📸 Screenshot
-![School Portal Screenshot](screenshot.png)
+![p2](https://github.com/user-attachments/assets/1ce4d004-d4ae-4de7-b901-a3be13d3bf70)
+
 
 ## 💬 Let’s Connect
 I’m actively seeking a fresher role as a ServiceNow Developer/Admin.  
